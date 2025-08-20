@@ -71,7 +71,7 @@ The system is designed to identify and exploit market inefficiencies while maint
 1. Cloning the repository
 ```
 git clone https://github.com/Maestro-Trading-Bot
-cd solana-sniper-bot
+cd maestro-trading-bot
 ```
 2. Installation of all packages
 ```
